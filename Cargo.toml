@@ -1,0 +1,7 @@
+[package]
+name = "bridge_game"
+version = "0.1.0"
+authors = ["Nagma"]
+edition = "2018"
+
+[dependencies]
